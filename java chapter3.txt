@@ -1,0 +1,11 @@
+ 
+			ADEDOKUN FAVOUR OYINADE
+
+
+			Chapter 3
+Chapter 3 explains how  to declare a class and use it to create objects. Each new class becomes a new type .
+ it also explains what an Attributes and Behaviors are,that is  a class’s data is instance variables (attributes) and its functionality are methods (behaviors).
+I also learnt what an Encapsulation is  by Using set (mutator) methods and get (accessor) methods to manage access to private instance variables.Also Constructors: Using special methods called constructors to initialize an object’s instance variables when the object is created.
+ I also learnt about the distinction between primitive types (like int and double) and reference types (used for objects).We use UML diagram to visualise class structure using UML class diagrams.
+- BeforeEach: This is an annotation that is used to designate a method that should be executed before each test method in the current test class. 
+- AfterEach: This is an annotation that is used to designate a method that should be executed after each test method within a test class.
